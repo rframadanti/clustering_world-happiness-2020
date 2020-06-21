@@ -9,6 +9,11 @@ Analysis includes:
 - Applying elbow method to help finding optimal k
 - Building the final K-Means Clustering with the chosen k
 
+The result is available to explore at my Tableau public:
+https://public.tableau.com/profile/ristanti.ramadanti#!/vizhome/WorldHappinessReport_15919886768830/World_Happiness
+6 clusters were derived and this Tableau dashboard shows interactive #datavisualization of the cluster profile.
+You can play around by changing the x and y axis to see visualization of different pairings of the variables! 
+
 The Python code is available as WHR20-class.ipynb where the steps are built as functions in a Clustering class which are reproducible for other data, while the code in WHR20.ipynb shows step-by-step code specifically for WHR 2020 data.
 
 Data is from World Happiness Report
